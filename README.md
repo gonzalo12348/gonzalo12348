@@ -8,7 +8,7 @@
 - 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skills tecnicos en tecnologias .
 - 📚 Me encanta aprender todos los dias sobre: Tecnologia, Economia, De todo un poco 😅
 - 💪🏼 Futuras Metas: Aprender mas tecnologias - Aprender mas sobre diseño - Emprender en los rubros de mis gustos.
-- ⚡ Hobbies: Gimnasio - Libros - Aprender - Codigo - Amigos 🎱.
+- ⚡ Hobbies: Gimnasio - Libros - Aprender - Codear - Amigos 🎱.
 
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
