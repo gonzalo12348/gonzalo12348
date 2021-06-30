@@ -7,7 +7,7 @@
 
 - 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skills tecnicos en tecnologias .
 - 📚 Me encanta aprender todos los dias sobre: Tecnologia, Economia, De todo un poco 😅
-- 💪🏼 Futuras Metas: Aprender mas tecnologias - Aprender mas sobre diseño - Emprender en los rubros de mis gustos.
+- 💪🏼 Futuras Metas: Aprender mas tecnologias - Aprender mas sobre diseño, UX, UI - Emprender en los rubros de mis gustos.
 - ⚡ Hobbies: Gimnasio - Libros - Aprender - Codear - Amigos 🎱.
 
 <h3 align="left">Tecnologias:</h3>
