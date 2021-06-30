@@ -1,5 +1,5 @@
 
-<h1 align="center">Holaa 👋👋, Soy Gonzalo Arancibia</h1>
+<h1 align="center">Holaa 👋, Soy Gonzalo Arancibia</h1>
 
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
