@@ -1,7 +1,7 @@
 
 <h1 align="center">Holaa, Soy Gonzalo Arancibia <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="center">Full Stack Developer de <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a>/h3>
+<h3 align="center">Full Stack Developer de <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a> </h3>
 
 ## I'm a Computer Science and Engineering Student  
 
