@@ -3,7 +3,7 @@
 
 <h3 align="center">Full Stack Developer de <a href="https://www.soyhenry.com">Soy Henry Bootcamp</a> </h3>
 
-## I'm a Computer Science and Engineering Student  
+## Sobre mi :  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
