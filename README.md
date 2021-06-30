@@ -1,14 +1,14 @@
 
 <h1 align="center">Holaa, Soy Gonzalo Arancibia <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="center">Full Stack Developer de <a href="https://www.soyhenry.com">Soy Henry Bootcamp fa-graduation-cap</a> </h3>
+<h3 align="center">Full Stack Developer de <a href="https://www.soyhenry.com">Soy Henry Bootcamp </a> </h3>
 
 ## Un poco sobre mi :  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skils tecnicos en tecnologias .
+- 📚 Me encanta aprender todos los dias sobre: Tecnologia, Economia, De todo un poco 😅
+- 💪🏼 Futuras Metas: Aprender mas tecnologias - Aprender mas sobre diseño - Emprender en los rubros de mis gustos.
+- ⚡ Hobbies: Gimnasio - Libros - Aprender - Amigos 🎱.
 
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
