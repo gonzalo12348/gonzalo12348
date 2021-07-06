@@ -19,8 +19,8 @@
 <p> 
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(135).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(136).png"></a>
-   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(137).png"></a>
-  <a><img width="70%" src2="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a>
+  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(137).png"></a>
+  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a>
 </p>
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
