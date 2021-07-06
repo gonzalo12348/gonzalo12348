@@ -16,6 +16,7 @@
 <h3 align="left">Proyectos:</h3>
 
 <h3> Videogame App </h3> <a href="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual" target="_blank">Check code</a>
+- 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skills tecnicos en tecnologias .
 <p> 
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(136).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(137).png"></a>
