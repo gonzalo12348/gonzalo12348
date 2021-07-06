@@ -16,13 +16,18 @@
 <h3 align="left">Proyectos:</h3>
 
 <h3> Videogame App </h3> <a href="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual" target="_blank">Check code</a>
-- 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skills tecnicos en tecnologias .
+<p> Aplicacion web donde podes encontrar informacion de todos los videojuegos y tambien la oportunidad de poder simular la creacion de informacion de uno mismo .</p>
 <p> 
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(136).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(137).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(135).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a>
 </p>
+
+## Contactame para mas info
+- LinkedIn: www.linkedin.com/in/gonzaloarancibiallobell 📥
+- Gmail: gonzaloarancibia480@gmail.com 📧
+- Phone: +5492612061571 📞
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
