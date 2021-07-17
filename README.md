@@ -24,7 +24,7 @@
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a>
 </p>
 
-<h3> Yoagronomo </h3> <a href="https://github.com/gonzalo12348/yoagronomo" target="_blank">Check code</a>
+<h3> Yoagronomo </h3> <a href="https://github.com/gonzalo12348/yoAgronomo" target="_blank">Check code</a>
 
 ## Contactame para mas info
 - LinkedIn: www.linkedin.com/in/gonzaloarancibiallobell 📥
