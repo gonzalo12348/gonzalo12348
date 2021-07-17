@@ -26,9 +26,10 @@
 
 <h3> Yoagronomo </h3> <a href="https://github.com/gonzalo12348/yoAgronomoApp" target="_blank">Check code</a>
 <p> Aplicacion Web para encargados del sector agronomo donde administran y controlan todo su trabajo en dicha industria.</br>
-Las tecnologias utilizadas fueron : Redux, React, CSS, Express, Node.js, JavaScript, PostgreSQL.
+Las tecnologias utilizadas fueron : Redux, React, CSS, Express, Node.js, JavaScript, PostgreSQL.</br>
 En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño responsive para telefonos moviles, entre otros...</p>
 <p> 
+  <a><img width="70%" src="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual/blob/main/imgDemo/Yoagronomo.png"></a>
   <a><img width="70%" src="https://user-images.githubusercontent.com/75500719/124179345-20c3a700-da89-11eb-9cd9-b5291860af88.gif"></a>
 </p>
 
