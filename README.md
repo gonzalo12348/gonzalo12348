@@ -5,7 +5,7 @@
 
 ## Un poco sobre mi :  
 
-- 👨‍💻 Estoy actualmente trabajando en proyectos de Soy Henry para perfeccionar mis skills tecnicos en tecnologias .
+- 👨‍💻 Estoy actualmente trabajando en proyectos personales para perfeccionar mis skills tecnicos en tecnologias .
 - 📚 Me encanta aprender todos los dias sobre: Tecnologia, Economia, De todo un poco 😅
 - 💪🏼 Futuras Metas: Aprender mas tecnologias - Aprender mas sobre diseño, UX, UI - Emprender en los rubros de mis gustos.
 - ⚡ Hobbies: Gimnasio - Libros - Aprender - Codear - Amigos 🎱.
@@ -31,6 +31,13 @@ En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño r
 <p> 
   <a><img width="70%" src="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual/blob/main/imgDemo/Yoagronomo.png"></a>
   <a><img width="70%" src="https://user-images.githubusercontent.com/75500719/124179345-20c3a700-da89-11eb-9cd9-b5291860af88.gif"></a>
+</p>
+
+
+<h3> Challenge Carousel-App </h3> <a href="https://github.com/gonzalo12348/Carousel-App" target="_blank">Check code</a>
+<p>  Challenge que realice en 1 - 2 casi días utilizando solo React Native expo y estilos sin librerías, aplicación con una sola pantalla que contenga un carrusel, sin utilizar bibliotecas o complementos de "carrusel" existentes ya que con bibliotecas es tan simple como instalarla y listo.</br>
+<p> 
+  <a><img width="70%" src="https://github.com/gonzalo12348/Carousel-App/blob/main/carousel-app.gif"></a>
 </p>
 
 
