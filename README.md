@@ -15,6 +15,13 @@
 
 <h3 align="left">Proyectos:</h3>
 
+<h3> Portafolio </h3> <a href="https://github.com/gonzalo12348/Portafolio" target="_blank">Check code</a>
+<p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi</p></br>
+Las tecnologias utilizadas fueron :React, CSS, Node.js, JavaScript.</br>
+<p> 
+  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/PortafolioGif.gif"></a>
+</p>
+
 <h3> Videogame App </h3> <a href="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual" target="_blank">Check code</a>
 <p> Aplicacion web donde podes encontrar informacion de todos los videojuegos y tambien la oportunidad de poder simular la creacion de informacion de uno mismo .</p>
 <p> 
