@@ -50,7 +50,7 @@ En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño r
 
 ## Contactame para mas info
 - LinkedIn: www.linkedin.com/in/gonzaloarancibiallobell 📥
-- Gmail: gonzaloarancibia480@gmail.com 📧
+- Gmail: gonzaloarancibia48@gmail.com 📧
 - Phone: +5492612061571 📞
 <!--
 **gonzalo12348/gonzalo12348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
