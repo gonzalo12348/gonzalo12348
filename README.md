@@ -17,7 +17,7 @@
 
 <h3> Portafolio </h3> <a href="https://github.com/gonzalo12348/Portafolio" target="_blank">Check code</a>
 <p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi. </br>
-Las tecnologias utilizadas fueron :React, CSS, Node.js, JavaScript.</p></br>
+Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
 <p> 
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/PortafolioGif.gif"></a>
 </p>
